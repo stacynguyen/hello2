@@ -7,7 +7,7 @@
 
    <servlet>
         <servlet-name>Hello</servlet-name>
-        <servlet-class>com.hello.HelloWorldServlet2</servlet-class>
+        <servlet-class>main.java.HelloWorldServlet2</servlet-class>
     </servlet>
 
     <servlet-mapping>
